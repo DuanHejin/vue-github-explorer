@@ -1,4 +1,4 @@
-# vue-githun-explorer
+# vue-github-explorer
 
 ## 功能
 - 输入指定的username/repository的关键字，可检索到对应的repo的目录列表
